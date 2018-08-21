@@ -1,5 +1,5 @@
-# 1percent
-### seisinv
+# Team: 1percent
+## Team member: seisinv
 import click
 
 from src.pipeline_manager import PipelineManager
